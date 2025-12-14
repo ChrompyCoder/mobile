@@ -245,7 +245,7 @@
   <string name="neverTypeYourPassword">Ποτέ μην πληκτρολογήσετε τον κωδικό σας από το Lichess σε άλλον ιστότοπο!</string>
   <string name="proceedToX">Μεταβείτε στον τομέα %s</string>
   <string name="passwordSuggestion">Μην ορίσετε κωδικό πρόσβασης που σας πρότεινε κάποιος άλλος — ενδεχομένως να χρησιμοποιηθεί για κακόβουλη πρόσβαση στον λογαριασμό σας.</string>
-  <string name="emailSuggestion">Μη χρησιμοποιήσετε email που στάλθηκε από κάποιον άλλο — ενδεχομένως να χρησιμοποιηθεί για κακόβουλη πρόσβαση στον λογαριασμό σας.</string>
+  <string name="emailSuggestion">Μη χρησιμοποιήσετε διεύθυνση email που σας πρότεινε άλλο άτομο — ενδεχομένως να χρησιμοποιηθεί για κακόβουλη πρόσβαση στον λογαριασμό σας.</string>
   <string name="emailConfirmHelp">Βοήθεια για την επιβεβαίωση της διεύθυνσης email</string>
   <string name="emailConfirmNotReceived">Δε λάβατε το email επιβεβαίωσης μετά την εγγραφή;</string>
   <string name="whatSignupUsername">Τι όνομα χρήστη χρησιμοποιήσατε για να εγγραφείτε;</string>
@@ -728,6 +728,7 @@
   <string name="cyclePreviousOrNextVariation">Επιλογή προηγούμενης/επόμενης βαριάντας</string>
   <string name="toggleGlyphAnnotations">Εμφάνιση/απόκρυψη σχολίων κινήσεων</string>
   <string name="togglePositionAnnotations">Εμφάνιση/απόκρυψη σχολίων με σύμβολα</string>
+  <string name="toggleObservationAnnotations">Εμφάνιση/απόκρυψη σχολίων με σύμβολα</string>
   <string name="variationArrowsInfo">Τα βέλη για βαριάντες σας επιτρέπουν να περιηγηθείτε χωρίς να χρησιμοποιήσετε τη λίστα κινήσεων.</string>
   <string name="playSelectedMove">πραγματοποίηση επιλεγμένης κίνησης</string>
   <string name="newTournament">Νέο τουρνουά</string>

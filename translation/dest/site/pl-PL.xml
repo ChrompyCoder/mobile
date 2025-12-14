@@ -808,6 +808,7 @@
   <string name="cyclePreviousOrNextVariation">Powtarzaj poprzedni/następny wariant</string>
   <string name="toggleGlyphAnnotations">Przełącz adnotacje symbolami</string>
   <string name="togglePositionAnnotations">Przełącz adnotacje pozycji</string>
+  <string name="toggleObservationAnnotations">Przełącz adnotacje obserwacji</string>
   <string name="variationArrowsInfo">Strzałki wariantów pozwalają nawigować bez użycia listy posunięć.</string>
   <string name="playSelectedMove">wykonaj wybrane posunięcie</string>
   <string name="newTournament">Nowy turniej</string>
@@ -851,6 +852,7 @@
   <string name="youCanAlsoScrollOverTheBoardToMoveInTheGame">Możesz także przewijać nad szachownicą, by zmieniać postęp partii.</string>
   <string name="scrollOverComputerVariationsToPreviewThem">Przewiń po wariantach komputera, aby je podglądać.</string>
   <string name="analysisShapesHowTo">Kliknij podczas trzymania Shift lub przytrzymaj prawy przycisk myszy aby rysować okręgi i strzałki na szachownicy.</string>
+  <string name="primaryColorArrowsHowTo">Ctrl lub shift = kolor czerwony; command, alt lub meta = kolor niebieski; Ctrl lub shift + command, alt lub meta = kolor żółty.</string>
   <string name="letOtherPlayersMessageYou">Zezwól na wiadomości od innych graczy</string>
   <string name="receiveForumNotifications">Otrzymuj powiadomienia, kiedy ktoś wspomni o Tobie na forum</string>
   <string name="shareYourInsightsData">Udostępniaj szczegółowe statystyki</string>
